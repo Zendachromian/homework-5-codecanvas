@@ -6,3 +6,7 @@ addToCartButtons.forEach(button => {
         alert('Product added to cart!');
     });
 });
+
+window.onload = function() {
+    alert("Welcome to My eCommerce Website!");
+}
